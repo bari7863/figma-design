@@ -1,4 +1,4 @@
-# figma-design
+# figma-design-bari-shokudo
 - figmaで作成したデザイン
 
 # Figma デザイン：バリ食堂　※製作中
