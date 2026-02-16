@@ -1,7 +1,7 @@
 # figma-design-bari-shokudo
-- figmaで作成したデザイン
+- figmaで作成したWebサイトのデザイン（バリ食堂）
 
-# Figma デザイン：バリ食堂　※製作中
+# Figma デザイン：Webサイト（バリ食堂）　※製作中
 
 ## URL
 - figma：https://www.figma.com/design/nvPT3Gv6iUyLaY003WSqSr/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEKAKUBARI?node-id=390-262&t=VaXeq3iWlnJiupcT-1
